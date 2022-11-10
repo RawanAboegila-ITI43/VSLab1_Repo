@@ -1,2 +1,2 @@
 # VSLab1_Repo
-theme: minima
+theme: hacker
